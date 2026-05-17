@@ -1,9 +1,8 @@
 # Smart Order Router
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://smart-order-router-ilpq.onrender.com)
-
 A production-style smart order router for US equities. Routes orders across simulated NYSE, NASDAQ, BATS, IEX, and dark pool venues to minimize slippage and execution cost. Core routing logic is implemented in C++ and exposed to Python via pybind11.
 
+<kbd>[▸ Live Demo — smart-order-router-ilpq.onrender.com](https://smart-order-router-ilpq.onrender.com)</kbd>
 ## Stack
 
 C++17, Python, pybind11, FastAPI, Streamlit, Plotly
